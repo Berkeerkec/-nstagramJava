@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880328915987",
+    "project_id": "instagramjava-57cb1",
+    "storage_bucket": "instagramjava-57cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880328915987:android:7551b5af2a75acbed913e6",
+        "android_client_info": {
+          "package_name": "com.berkesoft.instagramjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880328915987-ds8fdc77qjfsk1ld33uakjf2bav2ljd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ixV7pxf3ntTQyGF8QxHi3nGQ4ejaIfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880328915987-ds8fdc77qjfsk1ld33uakjf2bav2ljd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
